@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ADOHomeworkPart2\ADOHomeworkPart2\bin\Debug\DB.mdf
+C:\Users\User\source\repos\ADOHomeworkPart2\ADOHomeworkPart2\bin\Debug\DB_log.ldf
+C:\Users\User\source\repos\ADOHomeworkPart2\ADOHomeworkPart2\bin\Debug\ADOHomeworkPart2.exe.config
+C:\Users\User\source\repos\ADOHomeworkPart2\ADOHomeworkPart2\bin\Debug\ADOHomeworkPart2.exe
+C:\Users\User\source\repos\ADOHomeworkPart2\ADOHomeworkPart2\bin\Debug\ADOHomeworkPart2.pdb
+C:\Users\User\source\repos\ADOHomeworkPart2\ADOHomeworkPart2\obj\Debug\ADOHomeworkPart2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ADOHomeworkPart2\ADOHomeworkPart2\obj\Debug\ADOHomeworkPart2.Form1.resources
+C:\Users\User\source\repos\ADOHomeworkPart2\ADOHomeworkPart2\obj\Debug\ADOHomeworkPart2.Properties.Resources.resources
+C:\Users\User\source\repos\ADOHomeworkPart2\ADOHomeworkPart2\obj\Debug\ADOHomeworkPart2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ADOHomeworkPart2\ADOHomeworkPart2\obj\Debug\ADOHomeworkPart2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ADOHomeworkPart2\ADOHomeworkPart2\obj\Debug\ADOHomeworkPart2.exe
+C:\Users\User\source\repos\ADOHomeworkPart2\ADOHomeworkPart2\obj\Debug\ADOHomeworkPart2.pdb
